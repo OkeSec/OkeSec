@@ -1,13 +1,15 @@
 <div align="center">
 
-```
+<pre>
  ██████╗ ██╗  ██╗███████╗    ███████╗███████╗ ██████╗
 ██╔═══██╗██║ ██╔╝██╔════╝    ██╔════╝██╔════╝██╔════╝
 ██║   ██║█████╔╝ █████╗      ███████╗█████╗  ██║     
 ██║   ██║██╔═██╗ ██╔══╝      ╚════██║██╔══╝  ██║     
 ╚██████╔╝██║  ██╗███████╗    ███████║███████╗╚██████╗
  ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚══════╝╚══════╝ ╚═════╝
-```
+</pre>
+
+</div>
 <img width="736" height="414" alt="image" src="https://i.pinimg.com/1200x/3b/07/5e/3b075ef50e001d43cea8f4030541808d.jpg" /><div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Penetration+Tester+%7C+Bug+Hunter;HackerOne+%26+Bugcrowd+Researcher;Red+Team+%7C+Web+App+Security;Breaking+things+to+make+them+safer+%F0%9F%94%93" alt="Typing SVG" />
