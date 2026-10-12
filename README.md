@@ -24,8 +24,6 @@
 <a href="https://bugcrowd.com/"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd" /></a>
 <a href="https://tryhackme.com/p/OkeSec"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=OkeSec&style=flat&color=00ff41&label=PROFILE+VIEWS)
-
 ---
 
 <div align="center">
