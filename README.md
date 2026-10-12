@@ -21,8 +21,7 @@
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/OkeSec)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yousef12oke&style=flat&color=00ff41&label=PROFILE+VIEWS)
-
+![Profile Views](https://komarev.com/ghpvc/?username=OkeSec&style=flat&color=00ff41&label=PROFILE+VIEWS)
 </div>
 
 ---
